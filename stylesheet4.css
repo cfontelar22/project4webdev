@@ -13,7 +13,7 @@ body {
     font-size: large;
 }
 
-#logo {
+.logo {
     width: 100px;
  
 }
@@ -223,7 +223,7 @@ body {
     text-decoration: underline; 
 }
 
-#footer-division {
+.footer-division {
     text-align: center;
     display: flex;
     flex-direction: column;
@@ -234,7 +234,7 @@ body {
   
 }
 
-#footer-division a {
+.footer-division a {
     color: #fff;
     text-decoration: none;
     font-size: 12px;
@@ -242,7 +242,7 @@ body {
     margin-bottom: 5px;
 }
 
-#footer-division ul {
+.footer-division ul {
     list-style: none;
     padding: 0;
     margin: 10px 0;
@@ -255,12 +255,12 @@ body {
 }
 
 
-#footer-division h3 {
+.footer-division h3 {
     margin: 0;
     padding: 0;
 }
 
-#footer-division a:hover {
+.footer-division a:hover {
     color: #217174;
     text-decoration: underline;
 }
